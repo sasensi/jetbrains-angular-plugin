@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.sasensi.jetbrainsangularplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sasensi.jetbrainsangularplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
